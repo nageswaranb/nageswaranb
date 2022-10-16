@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nageswaranb
 - 👀 I’m interested in working on supervised, unsupervised, reinforcement learning
-- 🌱 I’m currently learning computer vision and reinfocement learning...
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on github...
 - 📫 Reach me at nageswaran.b@yahoo.com
 
